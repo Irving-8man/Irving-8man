@@ -1,6 +1,6 @@
 # Mucho gusto, Soy Irving Cupul 👋
 
-Estudiante de la LIS en la Universidad Autónoma de Yucatán, en la Unidad Multidiciplinaria Tizimín.
+Estudiante de LIS en la Universidad Autónoma de Yucatán, en la Unidad Multidiciplinaria Tizimín.
 
 ## Proyectos importantes
 - 🖼️ Página web del Museo de Tizimín -> https://museodetizimin.pages.dev/

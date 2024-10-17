@@ -1,4 +1,4 @@
-# Mucho gusto, soy Irving Cupul 👋
+# Mucho gusto, Soy Irving Cupul 👋
 
 Estudiante de la LIS en la Universidad Autónoma de Yucatán, en la Unidad Multidiciplinaria Tizimín.
 

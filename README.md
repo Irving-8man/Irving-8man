@@ -3,7 +3,7 @@
 Estudiante de la LIS en la Universidad Autónoma de Yucatán, en la Unidad Multidiciplinaria Tizimín.
 
 ## Proyectos importantes
-- 🖼️ Página web del Museo de Tizimín. -> https://museodetizimin.pages.dev/
+- 🖼️ Página web del Museo de Tizimín -> https://museodetizimin.pages.dev/
 - 🖌️ You Design, aplicación web para apoyar en la gestión de diseño web.
 - 🧑‍⚕️ Areteo, aplicación de escritorio para apoyar a la gestión de pacientes.
 

@@ -8,11 +8,12 @@ Estudiante de LIS en la Universidad Autónoma de Yucatán, en la Unidad Multidic
 - 🧑‍⚕️ Areteo, aplicación de escritorio para la gestión de pacientes.
 
 
-## Aficiones
+## Intereses
 - Estudiar matemáticas.
 - Experimentar con animaciones web con CSS, JavaScript y Three.js.
 - Experimentar con animación web 3D.
 - Aprender sobre como mejorar la accesibilidad en la web.
+- Aprender sobre mejoras UI/UX.
 
 <!-- 
 **Irving-8man/Irving-8man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

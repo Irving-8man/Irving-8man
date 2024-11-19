@@ -1,4 +1,4 @@
-# Br Irving Cupul,  Estudiante de Lic. en Ingeniería de Software 👋
+# Br Irving Cupul, Lic. en Ingeniería de Software 👋
 
 Universidad Autónoma de Yucatán, en la Unidad Multidiciplinaria Tizimín.
 
@@ -9,11 +9,11 @@ Universidad Autónoma de Yucatán, en la Unidad Multidiciplinaria Tizimín.
 
 
 ## Intereses
+- Crear y experimentar con animaciones web con CSS, JavaScript y Three.js.
+- Crear y experimentar con animación web 3D.
+- Aprender y aplicar mejoras de accesibilidad web.
+- Aprender y aplicar mejoras sobre UI/UX.
 - Estudiar matemáticas.
-- Experimentar con animaciones web con CSS, JavaScript y Three.js.
-- Experimentar con animación web 3D.
-- Aprender sobre como mejorar la accesibilidad en la web.
-- Aprender sobre mejoras UI/UX.
 
 <!-- 
 **Irving-8man/Irving-8man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,8 +4,8 @@ Estudiante de Lic. en Ingeniería de Software en Universidad Autónoma de Yucat�
 
 ## Proyectos importantes
 - 🖼️ Página web del Museo de Tizimín -> https://museodetizimin.pages.dev/
-- 🖌️ You Design, aplicación web para apoyar en la gestión de diseño web.
 - 🧑‍⚕️ Areteo, aplicación de escritorio para la gestión de pacientes y para la evaluación ACIC.
+- 🖌️ You Design, aplicación web para apoyar en la gestión de diseño web.
 
 
 ## Intereses

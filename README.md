@@ -1,6 +1,6 @@
 # Mucho gusto, Soy Irving Cupul 👋
 
-Estudiante de Lic. en Ingeniería de Software en Universidad Autónoma de Yucatán, Unidad Multidiciplinaria Tizimín.
+Lic. en Ingeniería de Software por la Universidad Autónoma de Yucatán, Unidad Multidiciplinaria Tizimín.
 
 ## Proyectos importantes
 - 🖼️ Página web del Museo de Tizimín -> https://museodetizimin.pages.dev/

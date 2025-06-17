@@ -5,7 +5,7 @@ Lic. en Ingeniería de Software por la Universidad Autónoma de Yucatán, Unidad
 ## Proyectos importantes
 - 🖼️ Página web del Museo de Tizimín -> https://museodetizimin.pages.dev/
 - 🧑‍⚕️ Areteo, aplicación de escritorio para la gestión de pacientes y para la evaluación ACIC.
-- 👀 Otro Color Checker, aplicación web para revisar el contraste de una paleta de colores -> https://otrocolorchecker.pages.dev/
+- 👀 Otro Color Checker, aplicación web para revisar el contraste de una paleta de colores
 - 🖌️ You Design, aplicación web para apoyar en la gestión de diseño web.
 
 

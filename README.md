@@ -2,6 +2,8 @@
 
 Lic. en Ingeniería de Software por la Universidad Autónoma de Yucatán, Unidad Multidiciplinaria Tizimín.
 
+Mi [portfolio](https://irvingcupul.com/)
+
 ## Proyectos importantes
 - 🖼️ Página web del Museo de Tizimín -> https://museodetizimin.pages.dev/
 - 👴 Página web de La Casa del Anciano Los Tres Reyes -> [https://casadelancianotresreyes.org](https://casaancianostresreyes.org/)

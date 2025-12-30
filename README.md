@@ -5,7 +5,7 @@ Lic. en Ingeniería de Software por la Universidad Autónoma de Yucatán, Unidad
 Mi [portfolio](https://irvingcupul.com/)
 
 ## Proyectos importantes
-- 🖼️ Página web del Museo de Tizimín -> https://museodetizimin.pages.dev/
+- 🖼️ Página web del Museo de Tizimín -> [https://museodetizimin.com](https://museodetizimin.com)
 - 👴 Página web de La Casa del Anciano Los Tres Reyes -> [https://casadelancianotresreyes.org](https://casaancianostresreyes.org/)
 - 🧑‍⚕️ Areteo, aplicación de escritorio para la gestión de pacientes y para la evaluación ACIC.
 - 🖌️ You Design, aplicación web para apoyar en la gestión de diseño web.
